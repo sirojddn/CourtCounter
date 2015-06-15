@@ -95,6 +95,8 @@ public class MainActivity extends ActionBarActivity {
     int scoreA;
     int scoreB;
 
+
+    //iam adding this
     class ButtonOp {
         void plusOp(int i, int id) {
             if (id == R.id.team_a) {
